@@ -1,0 +1,3 @@
+npm install -g truffle
+
+npm install --save-dev hardhat
