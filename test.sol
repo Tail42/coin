@@ -7,7 +7,7 @@ contract TimeMutualAidStation {
         uint256 balance;
         uint256 tokenReceived;
     }
-
+    
     struct Task {
         address taskOwner;
         bool isCompleted;
